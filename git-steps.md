@@ -1,7 +1,5 @@
 ---
-layout: page  
-title: "Git Steps"  
-permalink: /git/  
+title: "Git Steps"
 ---
 
 # GIT STEPS
