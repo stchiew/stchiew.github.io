@@ -1,8 +1,8 @@
---- 
+---
 layout: page  
 title: "Git Steps"  
 permalink: /git/  
---- 
+---
 
 # GIT STEPS
 
