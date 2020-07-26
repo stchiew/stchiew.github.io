@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Git Steps"
+layout: default
+title: Git Steps
 ---
 
 # GIT STEPS
