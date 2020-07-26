@@ -1,9 +1,12 @@
 ---
 layout: default
 title: Git Steps
+description: Easy git references
 ---
 
-# GIT STEPS
+## Easy git steps
+
+[back](./)
 
 Get latest from remote branch and replace everything  
   
