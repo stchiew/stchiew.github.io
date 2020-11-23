@@ -8,6 +8,16 @@ description: Easy git references
 
 [back](./)
 
+Create a new repository
+````
+git init
+git add *
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/<you>/<your-repo>.git
+git push -u origin main
+````
+
 Get latest from remote branch and replace everything  
   
     git fetch origin some-branch
