@@ -6,8 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Pandas Welcome!
 ---
 
-## Welcome!
-
-Pandas still having fun, have not progressed much in buidling this site. Stay tuned!
+Pandas still having fun, have not progressed much in building this site. Stay tuned!
