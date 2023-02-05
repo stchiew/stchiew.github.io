@@ -8,4 +8,6 @@
 layout: home
 ---
 
-# pandas still having fun, have not progressed much in buidling this site. Stay tuned!
+## Welcome!
+
+Pandas still having fun, have not progressed much in buidling this site. Stay tuned!
