@@ -24,3 +24,5 @@ And then push back to remote
 ```
 git push origin yourDevBranch
 ```
+
+By default, GitHub will create a merge commit for every PR merge (`–ff``), which is probably why you’re seeing the extra commit. Use the Rebase-Merge strategy instead, which preserves a linear history.
