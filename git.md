@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PowerApps
-permalink: /powerapps/
+title: Git
+permalink: /git/
 ---
 
 # Git common scenarios
