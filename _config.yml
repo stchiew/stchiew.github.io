@@ -1,7 +1,4 @@
-theme: minima
+remote_theme: pages-themes/slate@v0.2.0
 title: Panda Sanctuary
 description: Pandas still playing...!
-minima:
-  date_format: "%b %-d, %Y"
-header_pages:
-  - about.md
+show_downloads: false
