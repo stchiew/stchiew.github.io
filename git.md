@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Git
-permalink: /git/
+layout: default
 ---
 
 # Git common scenarios
