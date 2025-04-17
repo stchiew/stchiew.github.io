@@ -1,8 +1,4 @@
 --- 
 --- 
 
-@import "{{ site.theme }}";
-
-body {
-  background: #1C5F9D
-}
+@use "main";

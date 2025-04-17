@@ -1,7 +1,13 @@
 ---
 layout: default
+title: Home
 ---
 
-Pandas still having fun, have not progressed much in building this site. Stay tuned!
 
-[My Guide](https://stchiew.github.io/myguide/)
+## Hello there!
+
+Sorry for the mess! Pandas still having fun, developing a site from scratch - no themes, templates (well, maybe just a bit from here and there) - from the ground up. 
+
+Stay tuned!
+
+
